@@ -13,3 +13,5 @@ Key features of the virtual pet include:
 
 This project will initially focus on exploring tools, technologies, and frameworks necessary for development, including setting up Unity, integrating IBM Watson APIs, and designing basic virtual pet interactions.
 
+Based on IBM’s design principles, our project will emphasize human-centered design, empathy-driven solutions, and accessibility. We will adopt IBM’s Enterprise Design Thinking approach to foster collaboration and innovation, ensuring our virtual “social pet” for the elderly is inclusive, intuitive, and impactful. The design will adhere to IBM’s standards of simplicity, clarity, and scalability, focusing on user needs and continuous improvement. This project will also reflect IBM’s commitment to diversity and social responsibility.
+IBM Design Principles
